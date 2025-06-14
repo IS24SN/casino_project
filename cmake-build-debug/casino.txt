@@ -1,0 +1,7 @@
+GROUP Casino Games
+  GROUP Table Games
+    GAME Blackjack 0
+    GAME Roulette 0
+    GAME Poker 500
+  GROUP Slot Games
+    GAME Mega Joker 600
